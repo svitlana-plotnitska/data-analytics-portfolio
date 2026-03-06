@@ -1,5 +1,3 @@
-# data-analytics-portfolio
-Portfolio of data analytics projects: SQL, Python, Tableau
 # Svitlana Plotnitska – Data Analytics Portfolio
 
 Welcome to my data analytics portfolio.  
