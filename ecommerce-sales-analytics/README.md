@@ -1,5 +1,5 @@
 # E-commerce Sales Analytics Project
-Analytics-SQL-Python-Tableau/README.md
+
 SQL • Python • Tableau
 
 This project analyzes e-commerce sales data using SQL, Python, and Tableau.
