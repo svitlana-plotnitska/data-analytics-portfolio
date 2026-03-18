@@ -1,53 +1,55 @@
 # Svitlana Plotnitska – Data Analytics Portfolio
 
-Welcome to my data analytics portfolio.  
-Here I publish projects where I analyze datasets using SQL, Python and data visualization tools.
+Portfolio of data analytics projects using SQL, Python and BI tools.
 
 ## About me
 
-I am a Data Analyst student with a background in law and public administration.  
-Currently I am developing skills in:
+Data Analyst with a background in law and public administration.
 
-- SQL
-- Python
-- Data Analysis
-- Data Visualization
-- Tableau
-- Product Analytics
-
-My goal is to apply data-driven decision making in business and product development.
+I specialize in analyzing business data, identifying trends, and generating insights to support decision-making.
 
 ## Projects
 
-### Sales Data Analysis
-Analysis of sales dataset using SQL and Python.
+### 1. E-commerce Sales Analytics (SQL • Python • Tableau)
+Analysis of e-commerce sales data to identify revenue trends, customer behavior, and product performance.
 
-Topics covered:
-- Data cleaning
+Includes:
+- Data extraction (SQL / BigQuery)
+- Data processing (Python)
+- Dashboard (Tableau)
+
+### 2. Email Marketing Analysis (SQL • Looker Studio)
+Analysis of email campaign performance including sent, open, and visit metrics.
+
+Includes:
+- SQL data aggregation (CTE, window functions)
+- Campaign performance analysis
+- Interactive dashboard (Looker Studio)
+
+### 3. Global Sales Analysis (Python)
+End-to-end data analysis project using Python.
+
+Includes:
+- Data cleaning and preprocessing
+- Data merging (multiple datasets)
 - Exploratory data analysis
-- Revenue analysis
-- Customer segmentation
+- Data visualization
 
-Tools used:
-- SQL
-- Python
-- Tableau
+### 4. Sales Data Analysis (Google Sheets)
+Business analysis of sales across categories, countries, and channels.
 
-Project files will be added soon.
-
-## Tools
-SQL  
-Python (Pandas, NumPy)  
-Tableau  
-Power BI  
-Google Sheets  
+Includes:
+- KPI analysis
+- Sales trends
+- Geographic analysis
+- Dashboard in Google Sheets
 
 ## Analytics Skills
-Exploratory Data Analysis (EDA)  
-Basic Statistics  
-A/B Testing  
-Data Visualization  
-Business Metrics Analysis
+- Exploratory Data Analysis (EDA)  
+- Basic Statistics  
+- A/B Testing  
+- Data Visualization  
+- Business Metrics Analysis  
 
 ## Contacts
 LinkedIn:(https://www.linkedin.com/in/svitlana-plotnitska)
